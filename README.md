@@ -1,3 +1,3 @@
 # just-projects
-Just projects first html task.
-updated htl file is index.html. disregard the other html file.
+
+updated html file is index.html.  kindly disregard the other html file.
